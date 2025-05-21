@@ -4,7 +4,7 @@ body {
   background-color: #f9f6f1;
 }
 
-/* Navbar */
+/*css da navbar */
 .navbar {
   background-color: #4a2c2a;
   color: white;
@@ -31,7 +31,7 @@ body {
   transform: scale(1.05);
 }
 
-/* Vinho do Mês */
+/* container de vinho do mes */
 .vinho-mes {
   background-color: white;
   margin: 2rem auto;
@@ -59,7 +59,7 @@ body {
   transform: scale(1.05);
 }
 
-/* Cards de vinhos */
+/* cards dos vinhos */
 .cards {
   display: flex;
   justify-content: center;
